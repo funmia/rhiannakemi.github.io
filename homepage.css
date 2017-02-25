@@ -1,0 +1,17 @@
+#home img {
+margin-bottom: 0;
+width: 100%;
+background-attachment: fixed;
+}
+
+.navbar-inverse {
+  background-color: rgba(32, 35, 41,0.8);
+}
+body{
+  background-color: #E54B4B;
+}
+
+#stats img{
+
+  height: 400;
+}
