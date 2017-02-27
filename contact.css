@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #E54B4B;
+}
+.navbar-inverse {
+  background-color: rgba(32, 35, 41,0.8);
+}
+/*Add content styles here*/
+
+
+
+
+
+
+
+            /*footer */
+.footer-distributed {
+  background-color: rgba(32, 35, 41,0.8);
+  overflow: hidden;
+  margin-top: 10px;
+}
+.column {
+  float: left;
+  width: 31%;
+  margin: 20px 1.15%;
+  height: 160px;
+  overflow: hidden;  /* This is important */
+}
+.footer-distributed a, p{
+  font-family: 'Vast Shadow', cursive;
+  font-size: 15px;
+  color: white;
+}
+
+.footer-links {
+  margin-top: 20px;
+}
+.icons{
+  margin-top: 20px;
+}
+.icons i{
+  margin: 0 10px 0 30px;
+}
+.fa{
+  color: white;
+}
