@@ -28,7 +28,7 @@ border-radius: 20px;
   overflow: hidden;
   margin-top: 10px;
 }
-.column {
+.footer-item {
   float: left;
   width: 31%;
   margin: 20px 1.15%;
@@ -41,9 +41,6 @@ border-radius: 20px;
   color: white;
 }
 
-.footer-links {
-  margin-top: 20px;
-}
 .icons{
   margin-top: 20px;
 }
