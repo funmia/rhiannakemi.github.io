@@ -1,0 +1,14 @@
+body {
+text-align: center;
+background: #E54B4B;
+color: white;
+font-family: helvetica;
+}
+p {
+  text-align: center;
+}
+}
+
+<div class="w3-theme-border" style="width:100%;padding:70px;border-width:1px;border-style:solid;">
+<p>This element has a padding of 70px.</p>
+</div>
