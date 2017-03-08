@@ -173,7 +173,7 @@ form-row{
   overflow: hidden;  /* This is important */
 }
 .footer-distributed a, p{
-  font-family: 'Vast Shadow', cursive,"Helvetica", "Arial", sans-serif;
+  font-family:"Helvetica", "Arial", sans-serif;
   font-size: 15px;
   color: white;
 }
