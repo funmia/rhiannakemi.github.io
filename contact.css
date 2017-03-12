@@ -17,7 +17,7 @@ body{
 }
 /*Add content styles here*/
 
-#contact-banner {
+#contact-banner img{
   display: flex;
   justify-content: space-around;
   background-attachment: fixed;
