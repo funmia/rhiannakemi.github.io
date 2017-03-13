@@ -19,6 +19,11 @@ h1{
   padding-bottom: 30px;
 }
 
+a:hover {
+  color: purple;
+  background-color: #def ;
+}
+
 /*footer */
 .footer-distributed {
   background-color: rgba(32, 35, 41,0.9);
