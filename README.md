@@ -5,9 +5,9 @@ This is a repo for the group's website from a course with Code First: Girls http
 
 # Project Members
 <ul>
-<li><a href="http://www.quora.com/Adam-DAngelo">Rhianna</a></li>
+<li><a href="https://github.com/rhiannakemi">Rhianna</a></li>
 <li><a href="https://github.com/funmia">Funmi</a></li>
-<li><a href="http://www.quora.com/Adam-DAngelo">Aysha</a></li>
+<li><a href="https://github.com/ayshayh">Aysha</a></li>
 </ul>
 
 
