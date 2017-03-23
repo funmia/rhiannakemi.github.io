@@ -1,4 +1,4 @@
-# The StemGirls Website 
+# The STEMGirls Website 
 STEMGirls is a website to help young females find information, inspiration and opportunities for careers in Science, Technology, Engineering and Maths.
 
 This is a repo for the group's website from a course with Code First: Girls https://rhiannakemi.github.io/
